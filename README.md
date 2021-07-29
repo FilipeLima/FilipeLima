@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'll try to update this as soon as I can.
+
+- 🔭 I’m currently working on finishing my thesis in a PhD program in Biometrics and Applied Statistics
+- 🌱 I’m currently learning R, Python and Experimental Statistics
 <!--
 **FilipeLima/FilipeLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
