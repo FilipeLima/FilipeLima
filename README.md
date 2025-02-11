@@ -1,7 +1,7 @@
 ### Hi there, my name is Filipe Lima 👋
 
 
-- 🔭 I have a Masters degree in Mathematics (Differential Geometry) and I’m currently working on finishing my thesis in a PhD program in Biometrics and Applied Statistics at UFRPE
+- 🔭 I have a Masters degree in Mathematics (Differential Geometry) and a Ph.D in Biometrics and Applied Statistics.
 - 🌱 I’m currently learning R, Python and Experimental Statistics.
 - 📚 I'm also interested in Applied Machine Learning, SQL and HTML/CSS/Javascript
 
